@@ -1,10 +1,14 @@
 # PowerGym Website
 
-This is a simple and fully responsive mockup website of a gym. 
+This is just a simple but cool looking mockup gym website. 
+
+It is fully responsive.
 
 Technologies used:
 
 * HTML
 * CSS
 * JAVASCRIPT
+
+[View Power Gym Website](https://powergyms.netlify.app/)
 
