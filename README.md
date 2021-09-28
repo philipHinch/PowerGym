@@ -1,6 +1,6 @@
 # PowerGym Website
 
-This is just a simple but cool looking mockup gym website. 
+This is just a simple but cool looking gym website. 
 
 It is fully responsive.
 
