@@ -10,5 +10,7 @@ Technologies used:
 * CSS
 * JAVASCRIPT
 
+![GitHub Logo](/images/preview1.png)
+
 [View Power Gym Website](https://powergyms.netlify.app/)
 
